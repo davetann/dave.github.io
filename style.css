@@ -251,12 +251,14 @@ a {text-decoration: none;cursor: pointer;font-size: inherit;color: inherit;posit
         width: 100%;
         margin-top: 4rem;
     }
+    .footer-nav ul {
+        text-align: center;
+    }
         .footer-nav ul li {
         margin-right: 20px;
         display: inline-block;
         color: #7a7a7b;
         font-size: 10px;
-        text-align: center;
         }
         .footer-nav ul li a {
             font-size: 27px;
