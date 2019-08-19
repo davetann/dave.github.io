@@ -256,6 +256,7 @@ a {text-decoration: none;cursor: pointer;font-size: inherit;color: inherit;posit
         display: inline-block;
         color: #7a7a7b;
         font-size: 10px;
+        text-align: center;
         }
         .footer-nav ul li a {
             font-size: 27px;
